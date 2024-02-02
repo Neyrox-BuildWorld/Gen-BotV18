@@ -16,12 +16,12 @@
     "gen-bot",
     "javascript"
   ],
-  "author": "JulesZYTB",
-  "license": "BloumeGen",
+  "author": "Sharkyy",
+  "license": "DreamHosting",
   "bugs": {
-    "url": "https://discord.gg/BloumeGen"
+    "url": "https://discord.gg/NptfvFHUJB"
   },
-  "homepage": "https://discord.gg/BloumeGen",
+  "homepage": "https://discord.gg/NptfvFHUJB",
   "dependencies": {
     "async": "^3.2.4",
     "better-sqlite3": "^7.4.5",
