@@ -1,32 +1,6 @@
-<p align="center">
-  <img src="https://share.creavite.co/MBqK7PfYzbvFvpHN.gif" width="300">
-</p>
-
-<p align="center">
-  <b>Bienvenue sur BloumeGen Bot V18</b>
-</p>
-
-<p align="center">
-    <br/><br/>
-    <a href="https://discord.gg/bloumegen" target="_blank">
-        <img src="https://img.shields.io/discord/1137011826593378376.svg?logo=discord&colorB=7289DA" alt="Discord" />
-    </a>
-</p>
-
-[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
-[![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/BloumeGen)
-
-BloumeGen Bot V18 est un bot Discord de génération de compte open source codé en JavaScript avec [Discord.js](https://discord.js.org) par [JulesZ](https://github.com/JulesZYTB).  
-N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
-
-
-### Mise a jours 
-* La V30 du bot sortiras bientôt avec un systeme plus récent et des commandes slash pour en savoir plus !
-*   [Discord](https://discord.gg/bloumegen)
-
 ### Bot
 
-Offres BloumeGen Bot V18:
+Offres Gen-Bot V18:
 *   ✉️ Vous pouvez crée vos propre compte
 *   🇫🇷 Marche que sur un seul salon pour évité le spam
 *   ⚙️ Chaque compte généré et directement supprimer
@@ -92,11 +66,3 @@ Offres BloumeGen Bot V18:
   }
 
 * Ensuite allez dans CMD et faite `node index.js`
-
-Pour restock des comptes, vous pouvez directement les restocks a partir du fichier sans redémarrer votre bot, dans le dossier `stock`
-## Liens
-
-*   [Discord](https://discord.gg/bloumegen)
-*   [Youtube](https://www.youtube.com/julesZYTB)
-*   [Github](https://github.com/JulesZYTB/)
-
