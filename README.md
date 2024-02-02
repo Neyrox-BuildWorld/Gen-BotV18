@@ -1,3 +1,4 @@
+***Mettre une Categorie **Stock** dans les ficheirs du bot `../`***
 ### Bot
 
 Offres Gen-Bot V18:
